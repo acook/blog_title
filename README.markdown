@@ -37,7 +37,6 @@ net/http
 net/http lets us obtain the body of a web page.
 
 - API: http://rubydoc.info/stdlib/net/1.9.2/Net/HTTP
-- CheatSheet: http://www.rubyinside.com/nethttp-cheat-sheet-2940.html
 
 hpricot
 ------
