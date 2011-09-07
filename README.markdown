@@ -3,6 +3,11 @@ Write a Class to Get the Title of the Latest Blog Entry
 
 I've created a simple project structure with some code to get you started.
 
+0. Click the `Fork` button in the upper part of the screen
+    - right below  `Account Settings` and `Help` links
+0. One it is done forking clone the repo to your Projects directory
+    - `cd ~/projects` and then `git clone git@github.com:YOUR_GITHUB_LOGIN/blog_title.git`
+
 
 Expected Result
 ======
@@ -50,4 +55,5 @@ Hints
 
 0. Your class goes in `./lib/blog.rb`, don't change the `blog_title.rb`.
 0. The XPath for the HTML element you want to look for is at: `/html/body/div[2]/div/div[2]/div/div/h3`
+0. You'll need to install the hpricot gem: `gem install hpricot`
 
